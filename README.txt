@@ -75,6 +75,8 @@ Both database file and log file are empty upon creation.
 Script file will hold a data file that is to be imported to the database file and a coordinate
 bound for quadtree.
 
+Script file for a particular country can be retrieved here: https://www.usgs.gov/u.s.-board-on-geographic-names/download-gnis-data
+
 Import command wil...
 1) start the creation of a name index in the form of a hash table,
 2) start the creation of a coordinate index in the form of a quadtree,
